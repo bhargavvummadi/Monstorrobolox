@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/bhargavvummadi/Monstorrobolox.git",
+  "homepage": "https://github.com/bhargavvummadi/Monstorrobolox",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
