@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhargavvummadi/Monstorrobolox.git/static/css/main.f6ecfdb5.css",
+    "main.js": "/bhargavvummadi/Monstorrobolox.git/static/js/main.aa49793a.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/bhargavvummadi/Monstorrobolox.git/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/bhargavvummadi/Monstorrobolox.git/index.html",
+    "main.f6ecfdb5.css.map": "/bhargavvummadi/Monstorrobolox.git/static/css/main.f6ecfdb5.css.map",
+    "main.aa49793a.js.map": "/bhargavvummadi/Monstorrobolox.git/static/js/main.aa49793a.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/bhargavvummadi/Monstorrobolox.git/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6ecfdb5.css",
+    "static/js/main.aa49793a.js"
+  ]
+}
